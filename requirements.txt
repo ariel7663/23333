@@ -1,0 +1,12 @@
+packages to install:
+import tweepy
+import csv
+import numpy as np
+import pandas as pd
+from wordcloud import WordCloud
+import matplotlib.pyplot as plt
+from os import path
+from PIL import Image
+import nltk
+from nltk.corpus import stopwords
+import wordcloud

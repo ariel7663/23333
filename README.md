@@ -8,9 +8,10 @@ We have included an example with President Donald Trump's twitter account (@real
 **Group detail**
 *group name:* 23333
 *group members:* Ariel Liu, Yuqin Wang, Zihao Wang, Huanlun Li
+*group github usernames: ariel7663,yw3164,wangjwzh,hl3207(order as above respectively)
 
 **Instructions**
-packages to install:
+packages to install/import:
 import tweepy
 import csv
 import numpy as np
@@ -25,11 +26,18 @@ import wordcloud
 
 **Run instructions**
 use Trump as an example and put screenshots here
-Entering user name image(I have it uploaded already)
-
-Downloading twitter contents image
 
 Sample wordcloud output
-
+First enter the username of the user you want to get all his/tweets
+![alt text](23333/Sample input.png)
+Then the program starts to scraping tweets and load the findings to a csv file
+![alt text](23333/sample tweets loading.png)
+By choosing from 3 different shapes, the user could either get a regular wordmap,
 ![alt text](https://github.com/ariel7663/23333/blob/master/sample%20wordcloud.jpeg)
+a US flag shaped wordmap,
+![alt text](23333/sample flag world map.png)
+or a Love and peace justure word map
+![alt text](23333/sample peacenlove.jpeg)
+
+
       

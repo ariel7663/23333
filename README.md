@@ -30,3 +30,6 @@ Entering user name image(I have it uploaded already)
 Downloading twitter contents image
 
 Sample wordcloud output
+
+![alt text](https://github.com/ariel7663/23333/blob/master/sample%20wordcloud.jpeg)
+      

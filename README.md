@@ -1,14 +1,23 @@
 # 23333
-4501Project
+IEOR4501 Project
 **A description of what has been implemented**
 
 
+
 **Group detail**
-*group name:*
-*group members:*
+*group name:* 23333
+*group members:* Ariel Liu, Yuqin Wang, Zihao Wang, Huanlun Li
 
 **Instructions**
-maybe packages to install
+packages to install
+import tweepy
+import csv
+import numpy as np
+import pandas as pd
+from wordcloud import WordCloud
+import matplotlib.pyplot as plt
+from os import path
+from PIL import Image
 
 **Run instructions**
 use Trump as an example and put screenshots here

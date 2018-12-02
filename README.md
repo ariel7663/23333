@@ -1,7 +1,8 @@
 # 23333
 IEOR4501 Project
 **A description of what has been implemented**
-
+This project is designed as a Twitter Crawling, which takes a user's input of a specific twitter account, and returns a word map with the most frequently used words by this twitter user in his/her recent tweets.
+We have included an example with President Donald Trump's twitter account (@realDonaldTrump) as a demo.
 
 
 **Group detail**

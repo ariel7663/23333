@@ -10,7 +10,7 @@ We have included an example with President Donald Trump's twitter account (@real
 *group members:* Ariel Liu, Yuqin Wang, Zihao Wang, Huanlun Li
 
 **Instructions**
-packages to install
+packages to install:
 import tweepy
 import csv
 import numpy as np
@@ -19,6 +19,9 @@ from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 from os import path
 from PIL import Image
+import nltk
+from nltk.corpus import stopwords
+import wordcloud
 
 **Run instructions**
 use Trump as an example and put screenshots here

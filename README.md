@@ -30,7 +30,7 @@ Python Packages imported from the libraries are listed in the [requirements.txt]
 
 ```
 Clone git repository at "git@github.com:ariel7663/23333.git"
-Run the Fianl.ipynb top down
+Run the Final.ipynb top down
 ```
 
 

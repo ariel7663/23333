@@ -1,6 +1,7 @@
 # IEOR-4501 Session 002 - Final Project
 # Group 23333
 
+## Project discription
 This project is designed as a Twitter Data Crawler, which takes a user's input of a specific twitter account, and returns several types of word map with the most frequently used words by this twitter user in his/her recent tweets. There are three types of wordmaps, a regular, a United States Flag, and a 'Love and Peace' map. Users can choose whichever he/she wants to print out.
 
 We have included an example with President Donald Trump's twitter account (@realDonaldTrump) as a demo.
@@ -10,7 +11,7 @@ We have included an example with President Donald Trump's twitter account (@real
 
 *group members:* Ariel Liu, Yuqin Wang, Zihao Wang, Huanlun Li
 
-*group github usernames:* ariel7663,yw3164,wangjwzh,hl3207(order as above respectively)
+*group github usernames:* ariel7663, yw3164, wangjwzh, hl3207(order as above respectively)
 
 ## Getting Started
 
@@ -23,6 +24,7 @@ Python 3.6
 VM Software such as GCP
 Jupyter Notebook (Online Preferred)
 ```
+Python Packages imported from the libraries are listed in the [requirements.txt](https://github.com/ariel7663/23333/blob/master/requirements.txt).
 
 ### Installing
 
@@ -30,22 +32,22 @@ Jupyter Notebook (Online Preferred)
 
 
 ```
-Give the example
+
 ```
 
-And repeat
+Clone git repository at git@github.com:ariel7663/23333.git
+Run the Fianl.ipynb top down
 
 ```
 until finished
 ```
 
 
-Python Packages imported from the libraries are listed in the [requirements.txt](https://github.com/ariel7663/23333/blob/master/requirements.txt).
 
 
 
 
-## Trump Example
+## Run Instructions -Example running @realDonaldTrump
 
 use Trump as an example and put screenshots here
 
@@ -74,21 +76,19 @@ or a Love and peace justure word map
 
 
 
-
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
 ## Acknowledgments
 
 * Hat tip to anyone whose code was used
-* Inspiration
-* etc
+Citation:
+* Wordmap tutorial
+-url: https://www.datacamp.com/community/tutorials/wordcloud-python
+-Website Title-DataCamp Community
+-Article Title Generating WordClouds in Python
+-Date Accessed December 03, 2018
+* Scrape Twitter and api
+-url: https://www.promptcloud.com/blog/scrape-twitter-data-using-python-r
+-Website TitlePromptCloud
+-Date Published September 24, 2018
+-Date Accessed December 03, 2018
+
 
